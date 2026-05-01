@@ -899,14 +899,14 @@
               <FilePath>..\User_dvc\dvc_pmt45.h</FilePath>
             </File>
             <File>
-              <FileName>dvc_dr16.cpp</FileName>
+              <FileName>dvc_sbus.cpp</FileName>
               <FileType>8</FileType>
-              <FilePath>..\User_dvc\dvc_dr16.cpp</FilePath>
+              <FilePath>..\User_dvc\dvc_sbus.cpp</FilePath>
             </File>
             <File>
-              <FileName>dvc_dr16.h</FileName>
+              <FileName>dvc_sbus.h</FileName>
               <FileType>5</FileType>
-              <FilePath>..\User_dvc\dvc_dr16.h</FilePath>
+              <FilePath>..\User_dvc\dvc_sbus.h</FilePath>
             </File>
             <File>
               <FileName>dvc_dwt.cpp</FileName>

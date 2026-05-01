@@ -43,7 +43,7 @@
 "h723vgt6_demo\dvc_motor_mksesc.o"
 "h723vgt6_demo\dvc_motor_dji.o"
 "h723vgt6_demo\dvc_pmt45.o"
-"h723vgt6_demo\dvc_dr16.o"
+"h723vgt6_demo\dvc_sbus.o"
 "h723vgt6_demo\dvc_dwt.o"
 "h723vgt6_demo\dvc_serialplot.o"
 "h723vgt6_demo\motorcontrol.o"

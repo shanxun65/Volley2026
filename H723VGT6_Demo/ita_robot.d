@@ -50,8 +50,7 @@ h723vgt6_demo\ita_robot.o: ../User_dvc/dvc_motor_dji.h
 h723vgt6_demo\ita_robot.o: ../User_alg/alg_pid.h
 h723vgt6_demo\ita_robot.o: ../User_drv/drv_can.h
 h723vgt6_demo\ita_robot.o: ../User_tsk/config.h
-h723vgt6_demo\ita_robot.o: ../User_dvc/dvc_dr16.h
-h723vgt6_demo\ita_robot.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+h723vgt6_demo\ita_robot.o: ../User_dvc/dvc_sbus.h
 h723vgt6_demo\ita_robot.o: ../User_drv/drv_uart.h
 h723vgt6_demo\ita_robot.o: ../User_dvc/dvc_nvidiaorin.h
 h723vgt6_demo\ita_robot.o: ../User_dvc/MotorControl.h

@@ -3659,7 +3659,7 @@
         <PaneID>0</PaneID>
       </Doc>
       <Doc>
-        <Name>..\User_dvc\dvc_dr16.cpp</Name>
+        <Name>..\User_dvc\dvc_sbus.cpp</Name>
         <ColumnNumber>0</ColumnNumber>
         <TopLine>309</TopLine>
         <CurrentLine>339</CurrentLine>
@@ -3677,7 +3677,7 @@
         <PaneID>0</PaneID>
       </Doc>
       <Doc>
-        <Name>..\User_dvc\dvc_dr16.h</Name>
+        <Name>..\User_dvc\dvc_sbus.h</Name>
         <ColumnNumber>7</ColumnNumber>
         <TopLine>251</TopLine>
         <CurrentLine>252</CurrentLine>
