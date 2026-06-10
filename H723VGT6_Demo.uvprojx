@@ -948,6 +948,16 @@
               <FileType>5</FileType>
               <FilePath>..\User_dvc\dvc_nvidiaorin.h</FilePath>
             </File>
+            <File>
+              <FileName>dvc_motor_rmd.cpp</FileName>
+              <FileType>8</FileType>
+              <FilePath>..\User_dvc\dvc_motor_rmd.cpp</FilePath>
+            </File>
+            <File>
+              <FileName>dvc_motor_rmd.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\User_dvc\dvc_motor_rmd.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

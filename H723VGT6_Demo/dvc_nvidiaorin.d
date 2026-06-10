@@ -46,5 +46,3 @@ h723vgt6_demo\dvc_nvidiaorin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 h723vgt6_demo\dvc_nvidiaorin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\cfloat
 h723vgt6_demo\dvc_nvidiaorin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
 h723vgt6_demo\dvc_nvidiaorin.o: ../User_drv/drv_uart.h
-h723vgt6_demo\dvc_nvidiaorin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
-h723vgt6_demo\dvc_nvidiaorin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

@@ -48,6 +48,7 @@
 "h723vgt6_demo\dvc_serialplot.o"
 "h723vgt6_demo\motorcontrol.o"
 "h723vgt6_demo\dvc_nvidiaorin.o"
+"h723vgt6_demo\dvc_motor_rmd.o"
 "h723vgt6_demo\ita_robot.o"
 "h723vgt6_demo\tsk_config_and_callback.o"
 "h723vgt6_demo\crt_chassis.o"

@@ -1,6 +1,6 @@
 h723vgt6_demo\dvc_motor_rmd.o: ..\User_dvc\dvc_motor_rmd.cpp
 h723vgt6_demo\dvc_motor_rmd.o: ..\User_dvc\dvc_motor_rmd.h
-h723vgt6_demo\dvc_motor_rmd.o: ..\User_drv\drv_can.h
+h723vgt6_demo\dvc_motor_rmd.o: ../User_drv/drv_can.h
 h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h
 h723vgt6_demo\dvc_motor_rmd.o: ../Core/Inc/stm32h7xx_hal_conf.h
 h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h
@@ -13,6 +13,7 @@ h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/CMSIS/Include/cmsis_version.h
 h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
 h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/CMSIS/Include/cachel1_armv7.h
 h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h
 h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h
 h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
@@ -36,9 +37,11 @@ h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal
 h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h
 h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h
 h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h
-h723vgt6_demo\dvc_motor_rmd.o: ..\User_alg\alg_filter.h
-h723vgt6_demo\dvc_motor_rmd.o: ..\User_drv\drv_math.h
-h723vgt6_demo\dvc_motor_rmd.o: ..\Middlewares\ST\ARM\DSP\Inc\arm_math.h
+h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h
+h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
+h723vgt6_demo\dvc_motor_rmd.o: ../User_alg/alg_filter.h
+h723vgt6_demo\dvc_motor_rmd.o: ../User_drv/drv_math.h
+h723vgt6_demo\dvc_motor_rmd.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
 h723vgt6_demo\dvc_motor_rmd.o: ../Drivers/CMSIS/Include/core_cm7.h
 h723vgt6_demo\dvc_motor_rmd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 h723vgt6_demo\dvc_motor_rmd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\cfloat
