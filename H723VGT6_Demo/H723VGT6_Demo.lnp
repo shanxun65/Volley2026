@@ -53,6 +53,6 @@
 "h723vgt6_demo\tsk_config_and_callback.o"
 "h723vgt6_demo\crt_chassis.o"
 --strict --scatter "H723VGT6_Demo\H723VGT6_Demo.sct"
---summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
 --list "H723VGT6_Demo.map" -o H723VGT6_Demo\H723VGT6_Demo.axf
